@@ -1,0 +1,2821 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 386,
+        "INTERSECTION_ID": 13465959.0,
+        "LINEAR_NAME_FULL_1": "Richmond St E",
+        "LINEAR_NAME_FULL_2": "Parliament St",
+        "ID": 1,
+        "X": 315768.179,
+        "Y": 4834966.252,
+        "LONGITUDE": -79.364023,
+        "LATITUDE": 43.654559,
+        "OBJECTID": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.364022998153573, 43.654559011073431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 387,
+        "INTERSECTION_ID": 13467993.0,
+        "LINEAR_NAME_FULL_1": "Lake Shore Blvd W",
+        "LINEAR_NAME_FULL_2": "York St",
+        "ID": 2,
+        "X": 314411.515,
+        "Y": 4833508.939,
+        "LONGITUDE": -79.380868,
+        "LATITUDE": 43.64146,
+        "OBJECTID": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.380868007063683, 43.641460002163619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 388,
+        "INTERSECTION_ID": 13444656.0,
+        "LINEAR_NAME_FULL_1": "Steeles Ave W",
+        "LINEAR_NAME_FULL_2": "Carpenter Rd",
+        "ID": 3,
+        "X": 309017.922,
+        "Y": 4850229.154,
+        "LONGITUDE": -79.447589,
+        "LATITUDE": 43.792013,
+        "OBJECTID": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.447588998966012, 43.792013001413729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 389,
+        "INTERSECTION_ID": 13444138.0,
+        "LINEAR_NAME_FULL_1": "Steeles Ave W",
+        "LINEAR_NAME_FULL_2": "Hilda Ave",
+        "ID": 4,
+        "X": 310492.057,
+        "Y": 4850673.973,
+        "LONGITUDE": -79.429267,
+        "LATITUDE": 43.796007,
+        "OBJECTID": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.429267000886469, 43.796007006293607]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 390,
+        "INTERSECTION_ID": 13451893.0,
+        "LINEAR_NAME_FULL_1": "Albion Rd",
+        "LINEAR_NAME_FULL_2": "Silverstone Dr",
+        "ID": 5,
+        "X": 296738.069,
+        "Y": 4844782.178,
+        "LONGITUDE": -79.600094,
+        "LATITUDE": 43.742952,
+        "OBJECTID": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.600093993311674, 43.742952001262388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 391,
+        "INTERSECTION_ID": 13459576.0,
+        "LINEAR_NAME_FULL_1": "Dixon Rd",
+        "LINEAR_NAME_FULL_2": "Kipling Ave",
+        "ID": 6,
+        "X": 300072.37,
+        "Y": 4839368.29,
+        "LONGITUDE": -79.558649,
+        "LATITUDE": 43.694249,
+        "OBJECTID": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.558649005924451, 43.694249004488455]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 392,
+        "INTERSECTION_ID": 13448601.0,
+        "LINEAR_NAME_FULL_1": "Steeles Ave W",
+        "LINEAR_NAME_FULL_2": "Islington Ave",
+        "ID": 7,
+        "X": 298771.768,
+        "Y": 4847156.495,
+        "LONGITUDE": -79.574871,
+        "LATITUDE": 43.764343,
+        "OBJECTID": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.574870993126794, 43.764343003064482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 393,
+        "INTERSECTION_ID": 13450231.0,
+        "LINEAR_NAME_FULL_1": "Sheppard Ave W",
+        "LINEAR_NAME_FULL_2": "Wilson Heights Blvd",
+        "ID": 8,
+        "X": 308282.925,
+        "Y": 4845745.977,
+        "LONGITUDE": -79.456751,
+        "LATITUDE": 43.751663,
+        "OBJECTID": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.456751001921134, 43.751663001010755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 394,
+        "INTERSECTION_ID": 13449607.0,
+        "LINEAR_NAME_FULL_1": "Bathurst St",
+        "LINEAR_NAME_FULL_2": "Sheppard Ave W",
+        "ID": 9,
+        "X": 309753.93,
+        "Y": 4846168.518,
+        "LONGITUDE": -79.438481,
+        "LATITUDE": 43.755458,
+        "OBJECTID": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.438481004436895, 43.755458002896773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 395,
+        "INTERSECTION_ID": 13455749.0,
+        "LINEAR_NAME_FULL_1": "Lawrence Ave W",
+        "LINEAR_NAME_FULL_2": "Marlee Ave",
+        "ID": 10,
+        "X": 309109.431,
+        "Y": 4841741.672,
+        "LONGITUDE": -79.44652,
+        "LATITUDE": 43.715615,
+        "OBJECTID": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.446520005340432, 43.71561500351914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 396,
+        "INTERSECTION_ID": 13455135.0,
+        "LINEAR_NAME_FULL_1": "Bathurst St",
+        "LINEAR_NAME_FULL_2": "Lawrence Ave W",
+        "ID": 11,
+        "X": 310455.102,
+        "Y": 4842147.397,
+        "LONGITUDE": -79.429816,
+        "LATITUDE": 43.719258,
+        "OBJECTID": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.429815990405245, 43.719258001800853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 397,
+        "INTERSECTION_ID": 13444532.0,
+        "LINEAR_NAME_FULL_1": "Bayview Ave",
+        "LINEAR_NAME_FULL_2": "Cummer Ave",
+        "ID": 12,
+        "X": 313363.119,
+        "Y": 4850264.873,
+        "LONGITUDE": -79.393596,
+        "LATITUDE": 43.792297,
+        "OBJECTID": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.393596004045634, 43.792296999915294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 398,
+        "INTERSECTION_ID": 13445882.0,
+        "LINEAR_NAME_FULL_1": "Finch Ave E",
+        "LINEAR_NAME_FULL_2": "Willowdale Ave",
+        "ID": 13,
+        "X": 312277.28,
+        "Y": 4849077.938,
+        "LONGITUDE": -79.407105,
+        "LATITUDE": 43.781625,
+        "OBJECTID": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.407105000053292, 43.78162500435392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 399,
+        "INTERSECTION_ID": 13452717.0,
+        "LINEAR_NAME_FULL_1": "Leslie St",
+        "LINEAR_NAME_FULL_2": "Lawrence Ave E",
+        "ID": 14,
+        "X": 316401.596,
+        "Y": 4843852.294,
+        "LONGITUDE": -79.355979,
+        "LATITUDE": 43.734535,
+        "OBJECTID": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.355978997574539, 43.734535002051196]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 400,
+        "INTERSECTION_ID": 13449822.0,
+        "LINEAR_NAME_FULL_1": "Leslie St",
+        "LINEAR_NAME_FULL_2": "York Mills Rd",
+        "ID": 15,
+        "X": 316076.644,
+        "Y": 4845898.023,
+        "LONGITUDE": -79.35997,
+        "LATITUDE": 43.752954,
+        "OBJECTID": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.359969991143799, 43.752954002484351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 401,
+        "INTERSECTION_ID": 13448765.0,
+        "LINEAR_NAME_FULL_1": "Bayview Ave",
+        "LINEAR_NAME_FULL_2": "Truman Rd",
+        "ID": 16,
+        "X": 313928.145,
+        "Y": 4846742.627,
+        "LONGITUDE": -79.386635,
+        "LATITUDE": 43.760586,
+        "OBJECTID": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.386635002929069, 43.760586003211827]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 402,
+        "INTERSECTION_ID": 14038170.0,
+        "LINEAR_NAME_FULL_1": "Midland Ave",
+        "LINEAR_NAME_FULL_2": "McNicoll Ave",
+        "ID": 17,
+        "X": 321515.546,
+        "Y": 4852755.714,
+        "LONGITUDE": -79.292218,
+        "LATITUDE": 43.814578,
+        "OBJECTID": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.292218008112414, 43.814578007713472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 403,
+        "INTERSECTION_ID": 13441903.0,
+        "LINEAR_NAME_FULL_1": "Steeles Ave E",
+        "LINEAR_NAME_FULL_2": "Birchmount Rd",
+        "ID": 18,
+        "X": 319526.255,
+        "Y": 4853508.039,
+        "LONGITUDE": -79.316925,
+        "LATITUDE": 43.821392,
+        "OBJECTID": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.316924996247195, 43.821392003994596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 404,
+        "INTERSECTION_ID": 13446799.0,
+        "LINEAR_NAME_FULL_1": "Warden Ave",
+        "LINEAR_NAME_FULL_2": "Arkona Dr",
+        "ID": 19,
+        "X": 320469.463,
+        "Y": 4848143.835,
+        "LONGITUDE": -79.305356,
+        "LATITUDE": 43.773089,
+        "OBJECTID": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.305356009950074, 43.77308900553674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 405,
+        "INTERSECTION_ID": 13441677.0,
+        "LINEAR_NAME_FULL_1": "Steeles Ave E",
+        "LINEAR_NAME_FULL_2": "Brimley Rd",
+        "ID": 20,
+        "X": 321915.153,
+        "Y": 4854280.554,
+        "LONGITUDE": -79.287202,
+        "LATITUDE": 43.828294,
+        "OBJECTID": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.287201997167529, 43.828293997601897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 406,
+        "INTERSECTION_ID": 13465757.0,
+        "LINEAR_NAME_FULL_1": "College St",
+        "LINEAR_NAME_FULL_2": "Bathurst St",
+        "ID": 21,
+        "X": 312243.092,
+        "Y": 4835174.928,
+        "LONGITUDE": -79.407722,
+        "LATITUDE": 43.656481,
+        "OBJECTID": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.407721998349359, 43.656481004806068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 407,
+        "INTERSECTION_ID": 13447211.0,
+        "LINEAR_NAME_FULL_1": "Morningside Ave",
+        "LINEAR_NAME_FULL_2": "Lawrence Ave E",
+        "ID": 22,
+        "X": 330061.863,
+        "Y": 4847653.228,
+        "LONGITUDE": -79.186225,
+        "LATITUDE": 43.768408,
+        "OBJECTID": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.186225006382173, 43.768408003812006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 408,
+        "INTERSECTION_ID": 13461025.0,
+        "LINEAR_NAME_FULL_1": "Dixon Rd",
+        "LINEAR_NAME_FULL_2": "Carlingview Dr",
+        "ID": 23,
+        "X": 297095.574,
+        "Y": 4838538.732,
+        "LONGITUDE": -79.595566,
+        "LATITUDE": 43.686757,
+        "OBJECTID": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.595565997676061, 43.686757003577391]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 409,
+        "INTERSECTION_ID": 13457150.0,
+        "LINEAR_NAME_FULL_1": "Dufferin St",
+        "LINEAR_NAME_FULL_2": "Glencairn Ave",
+        "ID": 24,
+        "X": 308573.308,
+        "Y": 4840782.26,
+        "LONGITUDE": -79.45318,
+        "LATITUDE": 43.706982,
+        "OBJECTID": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.453180007189061, 43.706982004008957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 410,
+        "INTERSECTION_ID": 13456854.0,
+        "LINEAR_NAME_FULL_1": "Overlea Blvd",
+        "LINEAR_NAME_FULL_2": "Thorncliffe Park Dr",
+        "ID": 25,
+        "X": 317402.442,
+        "Y": 4840847.626,
+        "LONGITUDE": -79.343625,
+        "LATITUDE": 43.707473,
+        "OBJECTID": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.343625002550766, 43.707473006025296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 411,
+        "INTERSECTION_ID": 13447843.0,
+        "LINEAR_NAME_FULL_1": "Kennedy Rd",
+        "LINEAR_NAME_FULL_2": "Ellesmere Rd",
+        "ID": 26,
+        "X": 322426.06,
+        "Y": 4847339.153,
+        "LONGITUDE": -79.281078,
+        "LATITUDE": 43.765802,
+        "OBJECTID": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.28107800695112, 43.765802001906913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 412,
+        "INTERSECTION_ID": 13444761.0,
+        "LINEAR_NAME_FULL_1": "Leslie St",
+        "LINEAR_NAME_FULL_2": "Finch Ave E",
+        "ID": 27,
+        "X": 315418.032,
+        "Y": 4850013.973,
+        "LONGITUDE": -79.368067,
+        "LATITUDE": 43.790012,
+        "OBJECTID": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.368067000426151, 43.790011996195446]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 413,
+        "INTERSECTION_ID": 13444601.0,
+        "LINEAR_NAME_FULL_1": "Birchmount Rd",
+        "LINEAR_NAME_FULL_2": "Huntingwood Dr",
+        "ID": 28,
+        "X": 320711.282,
+        "Y": 4850072.06,
+        "LONGITUDE": -79.302295,
+        "LATITUDE": 43.79044,
+        "OBJECTID": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.302294997824234, 43.790439996452236]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 414,
+        "INTERSECTION_ID": 13443303.0,
+        "LINEAR_NAME_FULL_1": "Kingston Rd",
+        "LINEAR_NAME_FULL_2": "Port Union Rd",
+        "ID": 29,
+        "X": 333267.921,
+        "Y": 4851056.442,
+        "LONGITUDE": -79.146223,
+        "LATITUDE": 43.798924,
+        "OBJECTID": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.146222999431487, 43.798924001528214]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 415,
+        "INTERSECTION_ID": 13468898.0,
+        "LINEAR_NAME_FULL_1": "Bloor St W",
+        "LINEAR_NAME_FULL_2": "The West Mall",
+        "ID": 30,
+        "X": 299771.726,
+        "Y": 4832855.695,
+        "LONGITUDE": -79.562318,
+        "LATITUDE": 43.635625,
+        "OBJECTID": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.562317995946316, 43.63562499397824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 416,
+        "INTERSECTION_ID": 13470138.0,
+        "LINEAR_NAME_FULL_1": "The Queensway",
+        "LINEAR_NAME_FULL_2": "The West Mall",
+        "ID": 31,
+        "X": 299740.804,
+        "Y": 4830265.232,
+        "LONGITUDE": -79.562677,
+        "LATITUDE": 43.612307,
+        "OBJECTID": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.562676997796913, 43.612306996805877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 417,
+        "INTERSECTION_ID": 13470661.0,
+        "LINEAR_NAME_FULL_1": "Lake Shore Blvd W",
+        "LINEAR_NAME_FULL_2": "Thirty Seventh St",
+        "ID": 32,
+        "X": 301717.201,
+        "Y": 4828163.145,
+        "LONGITUDE": -79.53818,
+        "LATITUDE": 43.593396,
+        "OBJECTID": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.538179994071058, 43.593396000335346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 418,
+        "INTERSECTION_ID": 13470261.0,
+        "LINEAR_NAME_FULL_1": "Kipling Ave",
+        "LINEAR_NAME_FULL_2": "Horner Ave",
+        "ID": 33,
+        "X": 303124.868,
+        "Y": 4829696.289,
+        "LONGITUDE": -79.520751,
+        "LATITUDE": 43.607201,
+        "OBJECTID": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.52075099763168, 43.607200996779696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 419,
+        "INTERSECTION_ID": 13470082.0,
+        "LINEAR_NAME_FULL_1": "The Queensway",
+        "LINEAR_NAME_FULL_2": "North Queen St",
+        "ID": 34,
+        "X": 300267.475,
+        "Y": 4830477.045,
+        "LONGITUDE": -79.556154,
+        "LATITUDE": 43.614217,
+        "OBJECTID": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.556153991849897, 43.614217004666394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 420,
+        "INTERSECTION_ID": 13453096.0,
+        "LINEAR_NAME_FULL_1": "Wilson Ave",
+        "LINEAR_NAME_FULL_2": "Transit Rd",
+        "ID": 35,
+        "X": 308597.189,
+        "Y": 4843715.311000001,
+        "LONGITUDE": -79.452863,
+        "LATITUDE": 43.733383,
+        "OBJECTID": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.452862993442153, 43.73338300143611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 421,
+        "INTERSECTION_ID": 13468807.0,
+        "LINEAR_NAME_FULL_1": "Lake Shore Blvd W",
+        "LINEAR_NAME_FULL_2": "Windermere Ave",
+        "ID": 36,
+        "X": 307370.153,
+        "Y": 4832805.865,
+        "LONGITUDE": -79.468147,
+        "LATITUDE": 43.635189,
+        "OBJECTID": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.468146996879966, 43.635189002938091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 422,
+        "INTERSECTION_ID": 13442867.0,
+        "LINEAR_NAME_FULL_1": "Warden Ave",
+        "LINEAR_NAME_FULL_2": "McNicoll Ave",
+        "ID": 37,
+        "X": 319204.095,
+        "Y": 4851836.086,
+        "LONGITUDE": -79.320975,
+        "LATITUDE": 43.806349,
+        "OBJECTID": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.32097499365085, 43.806349002170904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 423,
+        "INTERSECTION_ID": 13454197.0,
+        "LINEAR_NAME_FULL_1": "Keele St",
+        "LINEAR_NAME_FULL_2": "Wilson Ave",
+        "ID": 38,
+        "X": 306244.619,
+        "Y": 4842965.49,
+        "LONGITUDE": -79.482069,
+        "LATITUDE": 43.726642,
+        "OBJECTID": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.482069004509498, 43.726641999117149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 424,
+        "INTERSECTION_ID": 13464191.0,
+        "LINEAR_NAME_FULL_1": "Lansdowne Ave",
+        "LINEAR_NAME_FULL_2": "Dupont St",
+        "ID": 39,
+        "X": 309117.692,
+        "Y": 4836310.235,
+        "LONGITUDE": -79.446461,
+        "LATITUDE": 43.666725,
+        "OBJECTID": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.446460994332114, 43.666725000262794]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 425,
+        "INTERSECTION_ID": 13468197.0,
+        "LINEAR_NAME_FULL_1": "Queen St W",
+        "LINEAR_NAME_FULL_2": "Lansdowne Ave",
+        "ID": 40,
+        "X": 309883.694,
+        "Y": 4833403.987,
+        "LONGITUDE": -79.43699,
+        "LATITUDE": 43.64056,
+        "OBJECTID": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.436989998682662, 43.64055999955314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 426,
+        "INTERSECTION_ID": 13467689.0,
+        "LINEAR_NAME_FULL_1": "Burnhamthorpe Rd",
+        "LINEAR_NAME_FULL_2": "The East Mall",
+        "ID": 41,
+        "X": 299960.262,
+        "Y": 4834041.821,
+        "LONGITUDE": -79.559992,
+        "LATITUDE": 43.646303,
+        "OBJECTID": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.559991995850496, 43.646303004340361]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 427,
+        "INTERSECTION_ID": 13451388.0,
+        "LINEAR_NAME_FULL_1": "Keele St",
+        "LINEAR_NAME_FULL_2": "Sheppard Ave W",
+        "ID": 42,
+        "X": 305891.172,
+        "Y": 4844980.149,
+        "LONGITUDE": -79.486452,
+        "LATITUDE": 43.744777,
+        "OBJECTID": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.486451994769908, 43.744777004433864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 428,
+        "INTERSECTION_ID": 13460183.0,
+        "LINEAR_NAME_FULL_1": "Jane St",
+        "LINEAR_NAME_FULL_2": "Bala Ave",
+        "ID": 43,
+        "X": 304751.551,
+        "Y": 4838910.351,
+        "LONGITUDE": -79.500601,
+        "LATITUDE": 43.690142,
+        "OBJECTID": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.500600997077626, 43.690142004576082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 429,
+        "INTERSECTION_ID": 13451997.0,
+        "LINEAR_NAME_FULL_1": "Jane St",
+        "LINEAR_NAME_FULL_2": "Clair Rd",
+        "ID": 44,
+        "X": 303697.729,
+        "Y": 4844587.204,
+        "LONGITUDE": -79.513685,
+        "LATITUDE": 43.74124,
+        "OBJECTID": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.51368500483477, 43.741240005739989]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 430,
+        "INTERSECTION_ID": null,
+        "LINEAR_NAME_FULL_1": null,
+        "LINEAR_NAME_FULL_2": null,
+        "ID": 45,
+        "X": 320318.396,
+        "Y": 4841407.02,
+        "LONGITUDE": -79.307427,
+        "LATITUDE": 43.712453,
+        "OBJECTID": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.307427005445163, 43.712453007462877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 431,
+        "INTERSECTION_ID": 13458312.0,
+        "LINEAR_NAME_FULL_1": "Danforth Ave",
+        "LINEAR_NAME_FULL_2": "Birchmount Rd",
+        "ID": 46,
+        "X": 323822.908,
+        "Y": 4839698.53,
+        "LONGITUDE": -79.263999,
+        "LATITUDE": 43.696993,
+        "OBJECTID": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.263999006132565, 43.696993009783299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 432,
+        "INTERSECTION_ID": 13460559.0,
+        "LINEAR_NAME_FULL_1": "Islington Ave",
+        "LINEAR_NAME_FULL_2": "The Westway",
+        "ID": 47,
+        "X": 301343.733,
+        "Y": 4838742.157,
+        "LONGITUDE": -79.542873,
+        "LATITUDE": 43.68862,
+        "OBJECTID": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.542872997017156, 43.688620001532392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 433,
+        "INTERSECTION_ID": 13462422.0,
+        "LINEAR_NAME_FULL_1": "Bathurst St",
+        "LINEAR_NAME_FULL_2": "Davenport Rd",
+        "ID": 48,
+        "X": 311590.371,
+        "Y": 4837423.792,
+        "LONGITUDE": -79.415786,
+        "LATITUDE": 43.67673,
+        "OBJECTID": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.415786001934038, 43.676730008545853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 434,
+        "INTERSECTION_ID": 13454488.0,
+        "LINEAR_NAME_FULL_1": "Warden Ave",
+        "LINEAR_NAME_FULL_2": "Comstock Rd",
+        "ID": 49,
+        "X": 322123.613,
+        "Y": 4842420.1,
+        "LONGITUDE": -79.284993,
+        "LATITUDE": 43.721532,
+        "OBJECTID": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.284993004874451, 43.721532000015657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 435,
+        "INTERSECTION_ID": 13464080.0,
+        "LINEAR_NAME_FULL_1": "Eastern Ave",
+        "LINEAR_NAME_FULL_2": "Coxwell Ave",
+        "ID": 50,
+        "X": 319621.779,
+        "Y": 4836188.387,
+        "LONGITUDE": -79.316215,
+        "LATITUDE": 43.665493,
+        "OBJECTID": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.316215000869761, 43.665493003860611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 436,
+        "INTERSECTION_ID": 13446743.0,
+        "LINEAR_NAME_FULL_1": "Midland Ave",
+        "LINEAR_NAME_FULL_2": "Progress Ave",
+        "ID": 51,
+        "X": 323075.391,
+        "Y": 4848136.692,
+        "LONGITUDE": -79.272986,
+        "LATITUDE": 43.772965,
+        "OBJECTID": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.272985994239775, 43.772965000143557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 437,
+        "INTERSECTION_ID": 13448868.0,
+        "LINEAR_NAME_FULL_1": "Lawrence Ave E",
+        "LINEAR_NAME_FULL_2": "Bellamy Rd N",
+        "ID": 52,
+        "X": 326117.311,
+        "Y": 4846452.151000001,
+        "LONGITUDE": -79.235267,
+        "LATITUDE": 43.757721,
+        "OBJECTID": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.235266993106208, 43.757721009063054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 438,
+        "INTERSECTION_ID": 13456762.0,
+        "LINEAR_NAME_FULL_1": "Danforth Rd",
+        "LINEAR_NAME_FULL_2": "Birchmount Rd",
+        "ID": 53,
+        "X": 323486.82,
+        "Y": 4840809.099,
+        "LONGITUDE": -79.26813,
+        "LATITUDE": 43.706998,
+        "OBJECTID": 53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.268130006035221, 43.706998002456224]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 439,
+        "INTERSECTION_ID": 13454486.0,
+        "LINEAR_NAME_FULL_1": "St Clair Ave E",
+        "LINEAR_NAME_FULL_2": "Brimley Rd",
+        "ID": 54,
+        "X": 325632.364,
+        "Y": 4842357.132,
+        "LONGITUDE": -79.241448,
+        "LATITUDE": 43.720875,
+        "OBJECTID": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.241447998072076, 43.72087500561581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 440,
+        "INTERSECTION_ID": 13456952.0,
+        "LINEAR_NAME_FULL_1": "Keele St",
+        "LINEAR_NAME_FULL_2": "Lawrence Ave W",
+        "ID": 55,
+        "X": 306567.974,
+        "Y": 4840967.736,
+        "LONGITUDE": -79.478062,
+        "LATITUDE": 43.708659,
+        "OBJECTID": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.478061998085451, 43.708659007241643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 441,
+        "INTERSECTION_ID": 13464908.0,
+        "LINEAR_NAME_FULL_1": "Bloor St W",
+        "LINEAR_NAME_FULL_2": "Ossington Ave",
+        "ID": 56,
+        "X": 310795.756,
+        "Y": 4835784.828,
+        "LONGITUDE": -79.425659,
+        "LATITUDE": 43.661984,
+        "OBJECTID": 56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.425658997726757, 43.661983998353286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 442,
+        "INTERSECTION_ID": 13461356.0,
+        "LINEAR_NAME_FULL_1": "Danforth Ave",
+        "LINEAR_NAME_FULL_2": "Greenwood Ave",
+        "ID": 57,
+        "X": 318314.364,
+        "Y": 4837962.143,
+        "LONGITUDE": -79.332382,
+        "LATITUDE": 43.681484,
+        "OBJECTID": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.332381996919111, 43.681484003503336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 443,
+        "INTERSECTION_ID": 13463494.0,
+        "LINEAR_NAME_FULL_1": "Queen St E",
+        "LINEAR_NAME_FULL_2": "Woodbine Ave",
+        "ID": 58,
+        "X": 320462.889,
+        "Y": 4836552.918000001,
+        "LONGITUDE": -79.305775,
+        "LATITUDE": 43.668757,
+        "OBJECTID": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.305775001925198, 43.66875700697782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 444,
+        "INTERSECTION_ID": 13466630.0,
+        "LINEAR_NAME_FULL_1": "King St E",
+        "LINEAR_NAME_FULL_2": "Jarvis St",
+        "ID": 59,
+        "X": 315132.458,
+        "Y": 4834510.196,
+        "LONGITUDE": -79.371913,
+        "LATITUDE": 43.650463,
+        "OBJECTID": 59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.371912996296501, 43.650463001136494]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 445,
+        "INTERSECTION_ID": 13465164.0,
+        "LINEAR_NAME_FULL_1": "Lake Shore Blvd E",
+        "LINEAR_NAME_FULL_2": "Leslie St",
+        "ID": 60,
+        "X": 318637.625,
+        "Y": 4835491.047,
+        "LONGITUDE": -79.328436,
+        "LATITUDE": 43.659235,
+        "OBJECTID": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.328435994295589, 43.659235004089076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 446,
+        "INTERSECTION_ID": 13467011.0,
+        "LINEAR_NAME_FULL_1": "Lower Jarvis St",
+        "LINEAR_NAME_FULL_2": "The Esplanade",
+        "ID": 61,
+        "X": 315211.979,
+        "Y": 4834261.689,
+        "LONGITUDE": -79.370932,
+        "LATITUDE": 43.648225,
+        "OBJECTID": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.370932001403048, 43.648224996325105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 447,
+        "INTERSECTION_ID": 13465837.0,
+        "LINEAR_NAME_FULL_1": "Lake Shore Blvd E",
+        "LINEAR_NAME_FULL_2": "Carlaw Ave",
+        "ID": 62,
+        "X": 317912.814,
+        "Y": 4835014.657,
+        "LONGITUDE": -79.337434,
+        "LATITUDE": 43.65496,
+        "OBJECTID": 62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.337434002233834, 43.654960001723445]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 448,
+        "INTERSECTION_ID": 13461587.0,
+        "LINEAR_NAME_FULL_1": "Rogers Rd",
+        "LINEAR_NAME_FULL_2": "Keele St",
+        "ID": 63,
+        "X": 307089.914,
+        "Y": 4838021.316000001,
+        "LONGITUDE": -79.471598,
+        "LATITUDE": 43.682136,
+        "OBJECTID": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.471597997948891, 43.682136002712937]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 449,
+        "INTERSECTION_ID": 13468300.0,
+        "LINEAR_NAME_FULL_1": "Dundas St W",
+        "LINEAR_NAME_FULL_2": "Bloor St W",
+        "ID": 64,
+        "X": 308635.125,
+        "Y": 4835154.114,
+        "LONGITUDE": -79.452453,
+        "LATITUDE": 43.656321,
+        "OBJECTID": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.452452994412184, 43.656321007306829]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 450,
+        "INTERSECTION_ID": null,
+        "LINEAR_NAME_FULL_1": null,
+        "LINEAR_NAME_FULL_2": null,
+        "ID": 65,
+        "X": 312679.907,
+        "Y": 4842798.784,
+        "LONGITUDE": -79.402195,
+        "LATITUDE": 43.725101,
+        "OBJECTID": 65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.402195006585529, 43.725101000317167]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 451,
+        "INTERSECTION_ID": 13467308.0,
+        "LINEAR_NAME_FULL_1": "Spadina Ave",
+        "LINEAR_NAME_FULL_2": "Adelaide St W",
+        "ID": 66,
+        "X": 313224.627,
+        "Y": 4834093.919,
+        "LONGITUDE": -79.39557,
+        "LATITUDE": 43.64674,
+        "OBJECTID": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.395569999299425, 43.646739999732702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 452,
+        "INTERSECTION_ID": 13457863.0,
+        "LINEAR_NAME_FULL_1": "Eglinton Ave W",
+        "LINEAR_NAME_FULL_2": "Spadina Rd",
+        "ID": 67,
+        "X": 311319.734,
+        "Y": 4840269.891,
+        "LONGITUDE": -79.419108,
+        "LATITUDE": 43.702351,
+        "OBJECTID": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.419108008664423, 43.702350995648878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 453,
+        "INTERSECTION_ID": 13452266.0,
+        "LINEAR_NAME_FULL_1": "Lawrence Ave E",
+        "LINEAR_NAME_FULL_2": "Don Mills Rd",
+        "ID": 68,
+        "X": 317410.476,
+        "Y": 4844147.196,
+        "LONGITUDE": -79.343448,
+        "LATITUDE": 43.737173,
+        "OBJECTID": 68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.343447995500512, 43.737173005054736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 454,
+        "INTERSECTION_ID": 13443509.0,
+        "LINEAR_NAME_FULL_1": "Neilson Rd",
+        "LINEAR_NAME_FULL_2": "Sheppard Ave E",
+        "ID": 69,
+        "X": 327519.388,
+        "Y": 4850945.255,
+        "LONGITUDE": -79.217665,
+        "LATITUDE": 43.798122,
+        "OBJECTID": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.217665008053132, 43.798122008941377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 455,
+        "INTERSECTION_ID": 13443955.0,
+        "LINEAR_NAME_FULL_1": "Sheppard Ave E",
+        "LINEAR_NAME_FULL_2": "Malvern St",
+        "ID": 70,
+        "X": 326131.23,
+        "Y": 4850556.265,
+        "LONGITUDE": -79.234931,
+        "LATITUDE": 43.794662,
+        "OBJECTID": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.234931007824699, 43.79466200940422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 456,
+        "INTERSECTION_ID": 13444869.0,
+        "LINEAR_NAME_FULL_1": "Ellesmere Rd",
+        "LINEAR_NAME_FULL_2": "Military Trl",
+        "ID": 71,
+        "X": 329886.403,
+        "Y": 4849671.224,
+        "LONGITUDE": -79.18831,
+        "LATITUDE": 43.786578,
+        "OBJECTID": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.188310006407193, 43.786578002388396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 457,
+        "INTERSECTION_ID": 14228400.0,
+        "LINEAR_NAME_FULL_1": "Kennedy Rd",
+        "LINEAR_NAME_FULL_2": "401 C E Kennedy Rd Ramp",
+        "ID": 72,
+        "X": 322199.288,
+        "Y": 4848159.012,
+        "LONGITUDE": -79.283868,
+        "LATITUDE": 43.773187,
+        "OBJECTID": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.283868004747532, 43.773187002152767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 458,
+        "INTERSECTION_ID": 13466730.0,
+        "LINEAR_NAME_FULL_1": "University Ave",
+        "LINEAR_NAME_FULL_2": "Richmond St W",
+        "ID": 73,
+        "X": 313972.677,
+        "Y": 4834466.735,
+        "LONGITUDE": -79.386291,
+        "LATITUDE": 43.650087,
+        "OBJECTID": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.386291007076792, 43.650086998953689]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 459,
+        "INTERSECTION_ID": 13466117.0,
+        "LINEAR_NAME_FULL_1": "Adelaide St E",
+        "LINEAR_NAME_FULL_2": "Parliament St",
+        "ID": 74,
+        "X": 315802.642,
+        "Y": 4834855.768,
+        "LONGITUDE": -79.363598,
+        "LATITUDE": 43.653564,
+        "OBJECTID": 74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.363597998394667, 43.653563999123712]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 460,
+        "INTERSECTION_ID": 13466931.0,
+        "LINEAR_NAME_FULL_1": "University Ave",
+        "LINEAR_NAME_FULL_2": "Adelaide St W",
+        "ID": 75,
+        "X": 314032.155,
+        "Y": 4834331.504,
+        "LONGITUDE": -79.385556,
+        "LATITUDE": 43.648869,
+        "OBJECTID": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.385556001383378, 43.648869002318051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 461,
+        "INTERSECTION_ID": 13460075.0,
+        "LINEAR_NAME_FULL_1": "Dixon Rd",
+        "LINEAR_NAME_FULL_2": "Martin Grove Rd",
+        "ID": 76,
+        "X": 299089.577,
+        "Y": 4839073.877,
+        "LONGITUDE": -79.570838,
+        "LATITUDE": 43.691592,
+        "OBJECTID": 76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.570837998208546, 43.691592002801883]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 462,
+        "INTERSECTION_ID": 13466604.0,
+        "LINEAR_NAME_FULL_1": "University Ave",
+        "LINEAR_NAME_FULL_2": "Queen St W",
+        "ID": 77,
+        "X": 313945.376,
+        "Y": 4834551.685,
+        "LONGITUDE": -79.386628,
+        "LATITUDE": 43.650852,
+        "OBJECTID": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.386628004657808, 43.650851999225338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 463,
+        "INTERSECTION_ID": 13454197.0,
+        "LINEAR_NAME_FULL_1": "Keele St",
+        "LINEAR_NAME_FULL_2": "Wilson Ave",
+        "ID": 78,
+        "X": 306244.619,
+        "Y": 4842965.49,
+        "LONGITUDE": -79.482069,
+        "LATITUDE": 43.726642,
+        "OBJECTID": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.482069004509498, 43.726641999117149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 464,
+        "INTERSECTION_ID": 13468307.0,
+        "LINEAR_NAME_FULL_1": "Lake Shore Blvd W",
+        "LINEAR_NAME_FULL_2": "Spadina Ave",
+        "ID": 79,
+        "X": 313495.591,
+        "Y": 4833173.627,
+        "LONGITUDE": -79.392226,
+        "LATITUDE": 43.638453,
+        "OBJECTID": 79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.392225998690662, 43.638453004598148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 465,
+        "INTERSECTION_ID": 13469683.0,
+        "LINEAR_NAME_FULL_1": "Lake Shore Blvd W",
+        "LINEAR_NAME_FULL_2": "Park Lawn Rd",
+        "ID": 80,
+        "X": 306316.352,
+        "Y": 4831447.866,
+        "LONGITUDE": -79.481211,
+        "LATITUDE": 43.622968,
+        "OBJECTID": 80
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.481211009660086, 43.622968011205579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 466,
+        "INTERSECTION_ID": 13447964.0,
+        "LINEAR_NAME_FULL_1": "Sheppard Ave E",
+        "LINEAR_NAME_FULL_2": "Bayview Ave",
+        "ID": 81,
+        "X": 313812.825,
+        "Y": 4847409.384,
+        "LONGITUDE": -79.388056,
+        "LATITUDE": 43.766589,
+        "OBJECTID": 81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.388056001180061, 43.76658900460415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 467,
+        "INTERSECTION_ID": 13447719.0,
+        "LINEAR_NAME_FULL_1": "Steeles Ave W",
+        "LINEAR_NAME_FULL_2": "Weston Rd",
+        "ID": 82,
+        "X": 301054.333,
+        "Y": 4847814.514,
+        "LONGITUDE": -79.546526,
+        "LATITUDE": 43.770281,
+        "OBJECTID": 82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.546526005328914, 43.77028100104021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 468,
+        "INTERSECTION_ID": 13448786.0,
+        "LINEAR_NAME_FULL_1": "Lawrence Ave E",
+        "LINEAR_NAME_FULL_2": "Greencedar Crct",
+        "ID": 83,
+        "X": 326293.492,
+        "Y": 4846504.154,
+        "LONGITUDE": -79.233077,
+        "LATITUDE": 43.758184,
+        "OBJECTID": 83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.233076998999934, 43.758184004356643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 469,
+        "INTERSECTION_ID": 13443562.0,
+        "LINEAR_NAME_FULL_1": "Finch Ave E",
+        "LINEAR_NAME_FULL_2": "Birchmount Rd",
+        "ID": 84,
+        "X": 320412.405,
+        "Y": 4851022.128,
+        "LONGITUDE": -79.305981,
+        "LATITUDE": 43.798998,
+        "OBJECTID": 84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.305980995156659, 43.798997999518406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 470,
+        "INTERSECTION_ID": 13468751.0,
+        "LINEAR_NAME_FULL_1": "Bloor St W",
+        "LINEAR_NAME_FULL_2": "The East Mall",
+        "ID": 85,
+        "X": 300224.4,
+        "Y": 4833000.238,
+        "LONGITUDE": -79.556709,
+        "LATITUDE": 43.636929,
+        "OBJECTID": 85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.556708999717785, 43.636929000957707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 471,
+        "INTERSECTION_ID": 13455040.0,
+        "LINEAR_NAME_FULL_1": "Wilson Ave",
+        "LINEAR_NAME_FULL_2": "Jane St",
+        "ID": 86,
+        "X": 304104.332,
+        "Y": 4842329.125,
+        "LONGITUDE": -79.508634,
+        "LATITUDE": 43.720915,
+        "OBJECTID": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.508633993821661, 43.72091500202626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 472,
+        "INTERSECTION_ID": 13442867.0,
+        "LINEAR_NAME_FULL_1": "Warden Ave",
+        "LINEAR_NAME_FULL_2": "McNicoll Ave",
+        "ID": 87,
+        "X": 319204.095,
+        "Y": 4851836.086,
+        "LONGITUDE": -79.320975,
+        "LATITUDE": 43.806349,
+        "OBJECTID": 87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.32097499365085, 43.806349002170904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 473,
+        "INTERSECTION_ID": 13446042.0,
+        "LINEAR_NAME_FULL_1": "Steeles Ave W",
+        "LINEAR_NAME_FULL_2": "Keele St",
+        "ID": 88,
+        "X": 305242.222,
+        "Y": 4849068.648,
+        "LONGITUDE": -79.494506,
+        "LATITUDE": 43.781579,
+        "OBJECTID": 88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.49450599924522, 43.781579002930258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 474,
+        "INTERSECTION_ID": 13467345.0,
+        "LINEAR_NAME_FULL_1": "University Ave",
+        "LINEAR_NAME_FULL_2": "Wellington St W",
+        "ID": 89,
+        "X": 314150.077,
+        "Y": 4834055.487,
+        "LONGITUDE": -79.384099,
+        "LATITUDE": 43.646383,
+        "OBJECTID": 89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.384098992287619, 43.646383004688516]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 475,
+        "INTERSECTION_ID": 13452362.0,
+        "LINEAR_NAME_FULL_1": "Albion Rd",
+        "LINEAR_NAME_FULL_2": "Kipling Ave",
+        "ID": 90,
+        "X": 298323.785,
+        "Y": 4844421.833000001,
+        "LONGITUDE": -79.580402,
+        "LATITUDE": 43.739724,
+        "OBJECTID": 90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.580402002851073, 43.739724005944431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 476,
+        "INTERSECTION_ID": 13469800.0,
+        "LINEAR_NAME_FULL_1": "The Queensway",
+        "LINEAR_NAME_FULL_2": "Kipling Ave",
+        "ID": 91,
+        "X": 302641.813,
+        "Y": 4831220.298,
+        "LONGITUDE": -79.526741,
+        "LATITUDE": 43.620918,
+        "OBJECTID": 91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.526741005285672, 43.62091799568276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 477,
+        "INTERSECTION_ID": 13444088.0,
+        "LINEAR_NAME_FULL_1": "Finch Ave E",
+        "LINEAR_NAME_FULL_2": "Gordon Baker Rd",
+        "ID": 92,
+        "X": 317574.298,
+        "Y": 4850588.244,
+        "LONGITUDE": -79.341261,
+        "LATITUDE": 43.795147,
+        "OBJECTID": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.341261004564288, 43.795147000012477]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 478,
+        "INTERSECTION_ID": 13463674.0,
+        "LINEAR_NAME_FULL_1": "Jarvis St",
+        "LINEAR_NAME_FULL_2": "Isabella St",
+        "ID": 93,
+        "X": 314521.331,
+        "Y": 4836556.757,
+        "LONGITUDE": -79.379452,
+        "LATITUDE": 43.668893,
+        "OBJECTID": 93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.379452004980962, 43.668893002719216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 479,
+        "INTERSECTION_ID": 13452352.0,
+        "LINEAR_NAME_FULL_1": "Danforth Rd",
+        "LINEAR_NAME_FULL_2": "Brimley Rd",
+        "ID": 94,
+        "X": 325149.24,
+        "Y": 4843944.106000001,
+        "LONGITUDE": -79.247384,
+        "LATITUDE": 43.735173,
+        "OBJECTID": 94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.247384001004534, 43.735173003810544]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 480,
+        "INTERSECTION_ID": 13464879.0,
+        "LINEAR_NAME_FULL_1": "Dundas St E",
+        "LINEAR_NAME_FULL_2": "River St",
+        "ID": 95,
+        "X": 316239.679,
+        "Y": 4835704.598,
+        "LONGITUDE": -79.358162,
+        "LATITUDE": 43.661198,
+        "OBJECTID": 95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.358161993697749, 43.661197998547586]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 481,
+        "INTERSECTION_ID": 13442036.0,
+        "LINEAR_NAME_FULL_1": "McCowan Rd",
+        "LINEAR_NAME_FULL_2": "McNicoll Ave",
+        "ID": 96,
+        "X": 323142.614,
+        "Y": 4853133.622,
+        "LONGITUDE": -79.27198,
+        "LATITUDE": 43.817941,
+        "OBJECTID": 96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.271980005772065, 43.817941008259503]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 482,
+        "INTERSECTION_ID": 13463362.0,
+        "LINEAR_NAME_FULL_1": "St Clair Ave W",
+        "LINEAR_NAME_FULL_2": "Gunns Rd",
+        "ID": 97,
+        "X": 307128.53,
+        "Y": 4836870.943,
+        "LONGITUDE": -79.471124,
+        "LATITUDE": 43.671781,
+        "OBJECTID": 97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.471124006378915, 43.671781009339497]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 483,
+        "INTERSECTION_ID": 13467505.0,
+        "LINEAR_NAME_FULL_1": "Spadina Ave",
+        "LINEAR_NAME_FULL_2": "King St W",
+        "ID": 98,
+        "X": 313267.078,
+        "Y": 4833952.883,
+        "LONGITUDE": -79.395046,
+        "LATITUDE": 43.64547,
+        "OBJECTID": 98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.395045996343754, 43.645470003001357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 484,
+        "INTERSECTION_ID": 13444619.0,
+        "LINEAR_NAME_FULL_1": "Sheppard Ave E",
+        "LINEAR_NAME_FULL_2": "McCowan Rd",
+        "ID": 99,
+        "X": 324208.963,
+        "Y": 4849990.231000001,
+        "LONGITUDE": -79.258838,
+        "LATITUDE": 43.78962,
+        "OBJECTID": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.25883800891566, 43.789620007572552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 485,
+        "INTERSECTION_ID": 13466241.0,
+        "LINEAR_NAME_FULL_1": "King St E",
+        "LINEAR_NAME_FULL_2": "Parliament St",
+        "ID": 100,
+        "X": 315831.268,
+        "Y": 4834763.051,
+        "LONGITUDE": -79.363245,
+        "LATITUDE": 43.652729,
+        "OBJECTID": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.363245010823036, 43.652728998693306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 486,
+        "INTERSECTION_ID": 13456327.0,
+        "LINEAR_NAME_FULL_1": "Rexdale Blvd",
+        "LINEAR_NAME_FULL_2": "Martin Grove Rd",
+        "ID": 101,
+        "X": 298263.379,
+        "Y": 4841546.729,
+        "LONGITUDE": -79.581117,
+        "LATITUDE": 43.713844,
+        "OBJECTID": 101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.581117010177053, 43.713843999316914]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 487,
+        "INTERSECTION_ID": 13469998.0,
+        "LINEAR_NAME_FULL_1": "The Queensway",
+        "LINEAR_NAME_FULL_2": "The East Mall",
+        "ID": 102,
+        "X": 301064.036,
+        "Y": 4830721.182,
+        "LONGITUDE": -79.546287,
+        "LATITUDE": 43.616419,
+        "OBJECTID": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.546286991846472, 43.616419004295352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 488,
+        "INTERSECTION_ID": 13460975.0,
+        "LINEAR_NAME_FULL_1": "St Clair Ave W",
+        "LINEAR_NAME_FULL_2": "Spadina Rd",
+        "ID": 103,
+        "X": 311961.711,
+        "Y": 4838301.274,
+        "LONGITUDE": -79.411169,
+        "LATITUDE": 43.684625,
+        "OBJECTID": 103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.411169006015285, 43.684625003964619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 489,
+        "INTERSECTION_ID": 13447779.0,
+        "LINEAR_NAME_FULL_1": "Dufferin St",
+        "LINEAR_NAME_FULL_2": "Finch Ave W",
+        "ID": 104,
+        "X": 307462.67,
+        "Y": 4847655.237,
+        "LONGITUDE": -79.466927,
+        "LATITUDE": 43.768852,
+        "OBJECTID": 104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.466926998713404, 43.768852005786904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 490,
+        "INTERSECTION_ID": 13469914.0,
+        "LINEAR_NAME_FULL_1": "Islington Ave",
+        "LINEAR_NAME_FULL_2": "Evans Ave",
+        "ID": 105,
+        "X": 303885.712,
+        "Y": 4830939.502,
+        "LONGITUDE": -79.511328,
+        "LATITUDE": 43.618393,
+        "OBJECTID": 105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.511328006869817, 43.618393002075123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 491,
+        "INTERSECTION_ID": 13463137.0,
+        "LINEAR_NAME_FULL_1": "Eglinton Ave W",
+        "LINEAR_NAME_FULL_2": "Martin Grove Rd",
+        "ID": 106,
+        "X": 299705.781,
+        "Y": 4837171.988,
+        "LONGITUDE": -79.563176,
+        "LATITUDE": 43.674477,
+        "OBJECTID": 106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.563176003498555, 43.674477002843119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 492,
+        "INTERSECTION_ID": 13442866.0,
+        "LINEAR_NAME_FULL_1": "Finch Ave E",
+        "LINEAR_NAME_FULL_2": "Brimley Rd",
+        "ID": 107,
+        "X": 322710.27,
+        "Y": 4851773.157,
+        "LONGITUDE": -79.2774,
+        "LATITUDE": 43.805706,
+        "OBJECTID": 107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.277399990533411, 43.805706007632857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 493,
+        "INTERSECTION_ID": 13468970.0,
+        "LINEAR_NAME_FULL_1": "Lake Shore Blvd W",
+        "LINEAR_NAME_FULL_2": "Jameson Ave",
+        "ID": 108,
+        "X": 310080.138,
+        "Y": 4832602.151000001,
+        "LONGITUDE": -79.434563,
+        "LATITUDE": 43.633341,
+        "OBJECTID": 108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.434563001880278, 43.633341003721569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 494,
+        "INTERSECTION_ID": 13452053.0,
+        "LINEAR_NAME_FULL_1": "Eglinton Ave E",
+        "LINEAR_NAME_FULL_2": "Danforth Rd",
+        "ID": 109,
+        "X": 325246.862,
+        "Y": 4844158.155,
+        "LONGITUDE": -79.246164,
+        "LATITUDE": 43.737097,
+        "OBJECTID": 109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.246163992116308, 43.737097003451332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 495,
+        "INTERSECTION_ID": 13442522.0,
+        "LINEAR_NAME_FULL_1": "Neilson Rd",
+        "LINEAR_NAME_FULL_2": "McLevin Ave",
+        "ID": 110,
+        "X": 327193.945,
+        "Y": 4852171.903,
+        "LONGITUDE": -79.221658,
+        "LATITUDE": 43.809173,
+        "OBJECTID": 110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.221657998674459, 43.809173002127615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 496,
+        "INTERSECTION_ID": 13467394.0,
+        "LINEAR_NAME_FULL_1": "Simcoe St",
+        "LINEAR_NAME_FULL_2": "Wellington St W",
+        "ID": 111,
+        "X": 314032.183,
+        "Y": 4834018.663,
+        "LONGITUDE": -79.385561,
+        "LATITUDE": 43.646053,
+        "OBJECTID": 111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.385561000570263, 43.646053011279591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 497,
+        "INTERSECTION_ID": 13448840.0,
+        "LINEAR_NAME_FULL_1": "Jane St",
+        "LINEAR_NAME_FULL_2": "Stong Crt",
+        "ID": 112,
+        "X": 303284.487,
+        "Y": 4846884.423,
+        "LONGITUDE": -79.518822,
+        "LATITUDE": 43.761917,
+        "OBJECTID": 112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.518821999490925, 43.761917005908238]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 498,
+        "INTERSECTION_ID": 13446514.0,
+        "LINEAR_NAME_FULL_1": "Ellesmere Rd",
+        "LINEAR_NAME_FULL_2": "Bellamy Rd N",
+        "ID": 113,
+        "X": 325588.795,
+        "Y": 4848296.148,
+        "LONGITUDE": -79.241759,
+        "LATITUDE": 43.774334,
+        "OBJECTID": 113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.241759006697805, 43.774333999948205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 499,
+        "INTERSECTION_ID": 13450163.0,
+        "LINEAR_NAME_FULL_1": "Lawrence Ave E",
+        "LINEAR_NAME_FULL_2": "Kennedy Rd",
+        "ID": 114,
+        "X": 322925.653,
+        "Y": 4845529.051,
+        "LONGITUDE": -79.274934,
+        "LATITUDE": 43.749497,
+        "OBJECTID": 114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.274934007066506, 43.749496999072619]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 500,
+        "INTERSECTION_ID": 13454488.0,
+        "LINEAR_NAME_FULL_1": "Warden Ave",
+        "LINEAR_NAME_FULL_2": "Comstock Rd",
+        "ID": 115,
+        "X": 322123.613,
+        "Y": 4842420.1,
+        "LONGITUDE": -79.284993,
+        "LATITUDE": 43.721532,
+        "OBJECTID": 115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.284993004874451, 43.721532000015657]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 501,
+        "INTERSECTION_ID": 13443955.0,
+        "LINEAR_NAME_FULL_1": "Sheppard Ave E",
+        "LINEAR_NAME_FULL_2": "Malvern St",
+        "ID": 116,
+        "X": 326131.23,
+        "Y": 4850556.265,
+        "LONGITUDE": -79.234931,
+        "LATITUDE": 43.794662,
+        "OBJECTID": 116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.234931007824699, 43.79466200940422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 502,
+        "INTERSECTION_ID": 13456668.0,
+        "LINEAR_NAME_FULL_1": "Rexdale Blvd",
+        "LINEAR_NAME_FULL_2": "Kipling Ave",
+        "ID": 117,
+        "X": 299424.787,
+        "Y": 4841307.839,
+        "LONGITUDE": -79.566702,
+        "LATITUDE": 43.711703,
+        "OBJECTID": 117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.566701999078475, 43.711703008510717]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 503,
+        "INTERSECTION_ID": 13458367.0,
+        "LINEAR_NAME_FULL_1": "Weston Rd",
+        "LINEAR_NAME_FULL_2": "Lawrence Ave W",
+        "ID": 118,
+        "X": 303494.184,
+        "Y": 4840023.207,
+        "LONGITUDE": -79.516201,
+        "LATITUDE": 43.700158,
+        "OBJECTID": 118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.516200999617396, 43.700157998233713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 504,
+        "INTERSECTION_ID": 13452733.0,
+        "LINEAR_NAME_FULL_1": "Islington Ave",
+        "LINEAR_NAME_FULL_2": "Albion Rd",
+        "ID": 119,
+        "X": 299539.599,
+        "Y": 4844144.356000001,
+        "LONGITUDE": -79.565305,
+        "LATITUDE": 43.737236,
+        "OBJECTID": 119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.565305006977823, 43.737235996555889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 505,
+        "INTERSECTION_ID": 13469672.0,
+        "LINEAR_NAME_FULL_1": "The Queensway",
+        "LINEAR_NAME_FULL_2": "Islington Ave",
+        "ID": 120,
+        "X": 303606.961,
+        "Y": 4831517.122,
+        "LONGITUDE": -79.514783,
+        "LATITUDE": 43.623592,
+        "OBJECTID": 120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.514782999002009, 43.623592000662363]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 506,
+        "INTERSECTION_ID": null,
+        "LINEAR_NAME_FULL_1": null,
+        "LINEAR_NAME_FULL_2": null,
+        "ID": 121,
+        "X": 311230.822,
+        "Y": 4850895.951,
+        "LONGITUDE": -79.420084,
+        "LATITUDE": 43.797999,
+        "OBJECTID": 121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.420083998351103, 43.797999006817882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 507,
+        "INTERSECTION_ID": 13463893.0,
+        "LINEAR_NAME_FULL_1": "St Clair Ave W",
+        "LINEAR_NAME_FULL_2": "Runnymede Rd",
+        "ID": 122,
+        "X": 306125.444,
+        "Y": 4836560.936000001,
+        "LONGITUDE": -79.483564,
+        "LATITUDE": 43.668993,
+        "OBJECTID": 122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.4835639906144, 43.668992999674273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 508,
+        "INTERSECTION_ID": 13453141.0,
+        "LINEAR_NAME_FULL_1": "Warden Ave",
+        "LINEAR_NAME_FULL_2": "Ashtonbee Rd",
+        "ID": 123,
+        "X": 321817.338,
+        "Y": 4843439.068,
+        "LONGITUDE": -79.288762,
+        "LATITUDE": 43.730711,
+        "OBJECTID": 123
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.288761994364506, 43.730711001684753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 509,
+        "INTERSECTION_ID": 13456952.0,
+        "LINEAR_NAME_FULL_1": "Keele St",
+        "LINEAR_NAME_FULL_2": "Lawrence Ave W",
+        "ID": 124,
+        "X": 306567.974,
+        "Y": 4840967.736,
+        "LONGITUDE": -79.478062,
+        "LATITUDE": 43.708659,
+        "OBJECTID": 124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.478061998085451, 43.708659007241643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 510,
+        "INTERSECTION_ID": 13442651.0,
+        "LINEAR_NAME_FULL_1": "Birchmount Rd",
+        "LINEAR_NAME_FULL_2": "McNicoll Ave",
+        "ID": 125,
+        "X": 319992.572,
+        "Y": 4852092.03,
+        "LONGITUDE": -79.311168,
+        "LATITUDE": 43.808637,
+        "OBJECTID": 125
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.311167997882308, 43.808636999873514]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 511,
+        "INTERSECTION_ID": 13442502.0,
+        "LINEAR_NAME_FULL_1": "Finch Ave E",
+        "LINEAR_NAME_FULL_2": "Middlefield Rd",
+        "ID": 126,
+        "X": 324294.041,
+        "Y": 4852242.217,
+        "LONGITUDE": -79.257699,
+        "LATITUDE": 43.809888,
+        "OBJECTID": 126
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.257698996839366, 43.809887998420216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 512,
+        "INTERSECTION_ID": 13459022.0,
+        "LINEAR_NAME_FULL_1": "Dixon Rd",
+        "LINEAR_NAME_FULL_2": "Islington Ave",
+        "ID": 127,
+        "X": 301033.242,
+        "Y": 4839678.746,
+        "LONGITUDE": -79.546731,
+        "LATITUDE": 43.697049,
+        "OBJECTID": 127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.546731003119859, 43.697049002432479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 513,
+        "INTERSECTION_ID": 13468134.0,
+        "LINEAR_NAME_FULL_1": "Spadina Ave",
+        "LINEAR_NAME_FULL_2": "Bremner Blvd",
+        "ID": 128,
+        "X": 313432.517,
+        "Y": 4833407.843,
+        "LONGITUDE": -79.393004,
+        "LATITUDE": 43.640562,
+        "OBJECTID": 128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.393004001533043, 43.640562002107096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 514,
+        "INTERSECTION_ID": 13469508.0,
+        "LINEAR_NAME_FULL_1": "The Queensway",
+        "LINEAR_NAME_FULL_2": "Royal York Rd",
+        "ID": 129,
+        "X": 304587.598,
+        "Y": 4831821.861,
+        "LONGITUDE": -79.502632,
+        "LATITUDE": 43.626336,
+        "OBJECTID": 129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.502632002291804, 43.626336004264232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 515,
+        "INTERSECTION_ID": 13468803.0,
+        "LINEAR_NAME_FULL_1": "Lake Shore Blvd W",
+        "LINEAR_NAME_FULL_2": "Strachan Ave",
+        "ID": 130,
+        "X": 312163.268,
+        "Y": 4832726.431,
+        "LONGITUDE": -79.408745,
+        "LATITUDE": 43.634442,
+        "OBJECTID": 130
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.408745008945687, 43.634442002195726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 516,
+        "INTERSECTION_ID": 13448547.0,
+        "LINEAR_NAME_FULL_1": "Lawrence Ave E",
+        "LINEAR_NAME_FULL_2": "Markham Rd",
+        "ID": 131,
+        "X": 326917.185,
+        "Y": 4846688.17,
+        "LONGITUDE": -79.225324,
+        "LATITUDE": 43.759822,
+        "OBJECTID": 131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.225324000817693, 43.759821997457571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 517,
+        "INTERSECTION_ID": 13455910.0,
+        "LINEAR_NAME_FULL_1": "Jane St",
+        "LINEAR_NAME_FULL_2": "Falstaff Ave",
+        "ID": 132,
+        "X": 304217.887,
+        "Y": 4841722.644,
+        "LONGITUDE": -79.507224,
+        "LATITUDE": 43.715456,
+        "OBJECTID": 132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.507223997327969, 43.715456010238093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 518,
+        "INTERSECTION_ID": 13454662.0,
+        "LINEAR_NAME_FULL_1": "Avenue Rd",
+        "LINEAR_NAME_FULL_2": "Lawrence Ave W",
+        "ID": 133,
+        "X": 311599.496,
+        "Y": 4842481.418000001,
+        "LONGITUDE": -79.415609,
+        "LATITUDE": 43.722255,
+        "OBJECTID": 133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.415609006098251, 43.722255002013128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 519,
+        "INTERSECTION_ID": 13443081.0,
+        "LINEAR_NAME_FULL_1": "Pharmacy Ave",
+        "LINEAR_NAME_FULL_2": "McNicoll Ave",
+        "ID": 134,
+        "X": 318419.405,
+        "Y": 4851587.02,
+        "LONGITUDE": -79.330734,
+        "LATITUDE": 43.804122,
+        "OBJECTID": 134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.33073400260794, 43.804122000535422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 520,
+        "INTERSECTION_ID": 13445553.0,
+        "LINEAR_NAME_FULL_1": "Markham Rd",
+        "LINEAR_NAME_FULL_2": "Progress Ave",
+        "ID": 135,
+        "X": 326219.616,
+        "Y": 4849121.603,
+        "LONGITUDE": -79.23389,
+        "LATITUDE": 43.781746,
+        "OBJECTID": 135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.233890002589916, 43.78174599804575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 521,
+        "INTERSECTION_ID": 13444062.0,
+        "LINEAR_NAME_FULL_1": "Markham Rd",
+        "LINEAR_NAME_FULL_2": "Sheppard Ave E",
+        "ID": 136,
+        "X": 325824.016,
+        "Y": 4850467.187,
+        "LONGITUDE": -79.238752,
+        "LATITUDE": 43.793869,
+        "OBJECTID": 136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.238752005142146, 43.793869004740159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 522,
+        "INTERSECTION_ID": 13445096.0,
+        "LINEAR_NAME_FULL_1": "Don Mills Rd",
+        "LINEAR_NAME_FULL_2": "Van Horne Ave",
+        "ID": 137,
+        "X": 316628.824,
+        "Y": 4849719.717,
+        "LONGITUDE": -79.353029,
+        "LATITUDE": 43.787345,
+        "OBJECTID": 137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.353028995611183, 43.787345007936295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 523,
+        "INTERSECTION_ID": 13443095.0,
+        "LINEAR_NAME_FULL_1": "Sheppard Ave E",
+        "LINEAR_NAME_FULL_2": "Morningside Ave",
+        "ID": 138,
+        "X": 328957.76,
+        "Y": 4851378.268,
+        "LONGITUDE": -79.199771,
+        "LATITUDE": 43.801974,
+        "OBJECTID": 138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.199771004869433, 43.801974005655893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 524,
+        "INTERSECTION_ID": 13443245.0,
+        "LINEAR_NAME_FULL_1": "Morningside Ave",
+        "LINEAR_NAME_FULL_2": "Milner Ave",
+        "ID": 139,
+        "X": 329014.045,
+        "Y": 4851190.27,
+        "LONGITUDE": -79.19908,
+        "LATITUDE": 43.80028,
+        "OBJECTID": 139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.199080006278521, 43.800279996273048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 525,
+        "INTERSECTION_ID": 13442363.0,
+        "LINEAR_NAME_FULL_1": "Kennedy Rd",
+        "LINEAR_NAME_FULL_2": "McNicoll Ave",
+        "ID": 140,
+        "X": 320733.682,
+        "Y": 4852482.495,
+        "LONGITUDE": -79.301945,
+        "LATITUDE": 43.812136,
+        "OBJECTID": 140
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.301945009227168, 43.812136006090796]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 526,
+        "INTERSECTION_ID": 13446212.0,
+        "LINEAR_NAME_FULL_1": "Markham Rd",
+        "LINEAR_NAME_FULL_2": "Ellesmere Rd",
+        "ID": 141,
+        "X": 326393.296,
+        "Y": 4848532.234,
+        "LONGITUDE": -79.231756,
+        "LATITUDE": 43.776436,
+        "OBJECTID": 141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.231756002544145, 43.776436008694105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 527,
+        "INTERSECTION_ID": 13466139.0,
+        "LINEAR_NAME_FULL_1": "Bloor St W",
+        "LINEAR_NAME_FULL_2": "Keele St",
+        "ID": 142,
+        "X": 308022.601,
+        "Y": 4834974.484,
+        "LONGITUDE": -79.460048,
+        "LATITUDE": 43.654707,
+        "OBJECTID": 142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.460047997342286, 43.654707000950253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 528,
+        "INTERSECTION_ID": 13461355.0,
+        "LINEAR_NAME_FULL_1": "Eglinton Ave W",
+        "LINEAR_NAME_FULL_2": "Scarlett Rd",
+        "ID": 143,
+        "X": 303876.306,
+        "Y": 4838223.847,
+        "LONGITUDE": -79.511457,
+        "LATITUDE": 43.683962,
+        "OBJECTID": 143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.511457004345345, 43.683962001253434]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 529,
+        "INTERSECTION_ID": 13445306.0,
+        "LINEAR_NAME_FULL_1": "Steeles Ave W",
+        "LINEAR_NAME_FULL_2": "Dufferin St",
+        "ID": 144,
+        "X": 307207.362,
+        "Y": 4849702.765,
+        "LONGITUDE": -79.470089,
+        "LATITUDE": 43.787283,
+        "OBJECTID": 144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.470088990946749, 43.78728300288423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 530,
+        "INTERSECTION_ID": 13463882.0,
+        "LINEAR_NAME_FULL_1": "Dufferin St",
+        "LINEAR_NAME_FULL_2": "Dupont St",
+        "ID": 145,
+        "X": 309716.424,
+        "Y": 4836503.843,
+        "LONGITUDE": -79.439035,
+        "LATITUDE": 43.668464,
+        "OBJECTID": 145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.439035009652684, 43.66846401129942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 531,
+        "INTERSECTION_ID": 13467841.0,
+        "LINEAR_NAME_FULL_1": "Bloor St W",
+        "LINEAR_NAME_FULL_2": "Islington Ave",
+        "ID": 146,
+        "X": 302909.133,
+        "Y": 4833856.478,
+        "LONGITUDE": -79.523438,
+        "LATITUDE": 43.644648,
+        "OBJECTID": 146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.523437998469703, 43.644648002483706]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 532,
+        "INTERSECTION_ID": null,
+        "LINEAR_NAME_FULL_1": null,
+        "LINEAR_NAME_FULL_2": null,
+        "ID": 147,
+        "X": 295612.693,
+        "Y": 4846172.56,
+        "LONGITUDE": -79.61409,
+        "LATITUDE": 43.755454,
+        "OBJECTID": 147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.614089994995368, 43.755454000257131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_id": 533,
+        "INTERSECTION_ID": 13447608.0,
+        "LINEAR_NAME_FULL_1": "Steeles Ave W",
+        "LINEAR_NAME_FULL_2": "Signet Dr",
+        "ID": 148,
+        "X": 301302.171,
+        "Y": 4847885.371,
+        "LONGITUDE": -79.543448,
+        "LATITUDE": 43.77092,
+        "OBJECTID": 148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.54344800097185, 43.770920008533139]
+      }
+    }
+  ]
+}
